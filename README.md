@@ -19,8 +19,6 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/09284217f621460c93f10505cdfe79c6-81c51be2842e3305-full-play.gif">
 </a>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
 
 Instagram:

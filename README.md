@@ -37,7 +37,7 @@ TikTok:
 
 ## Notes
 
-Occasionally it was challenging to find the corresponding menu or option from the instruction in the xcode environment that might have been updated with the app versions 
+Occasionally it was challenging to find the corresponding menu or option from the instructions in the xcode environment that might have been updated with the newer app versions 
 
 ## License
 
